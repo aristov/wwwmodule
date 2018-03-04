@@ -1,0 +1,28 @@
+{
+  "name": "wwwmodule",
+  "version": "0.0.0",
+  "description": "Web DOM assembler meta library",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "cross-env NODE_ENV=test nyc mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/aristov/wwwmodule.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "DOM",
+    "WWW",
+    "dommodule",
+    "xmlmodule",
+    "htmlmodule",
+    "ariamodule"
+  ],
+  "author": "Vyacheslav Aristov <vv.aristov@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aristov/wwwmodule/issues"
+  },
+  "homepage": "https://github.com/aristov/wwwmodule#readme"
+}
