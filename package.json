@@ -24,5 +24,11 @@
   "bugs": {
     "url": "https://github.com/aristov/wwwmodule/issues"
   },
-  "homepage": "https://github.com/aristov/wwwmodule#readme"
+  "homepage": "https://github.com/aristov/wwwmodule#readme",
+  "dependencies": {
+    "ariamodule": "^0.1.1",
+    "dommodule": "^0.4.11",
+    "htmlmodule": "^0.5.16",
+    "xmlmodule": "^0.1.1"
+  }
 }
